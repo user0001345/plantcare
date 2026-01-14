@@ -43,3 +43,12 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+encrypt_keys.py
+# VS Code
+.vscode/
+
+# Secrets / backend configs
+.env
+supabase/.env
+supabase/
+lib/my_gemini_backend/
